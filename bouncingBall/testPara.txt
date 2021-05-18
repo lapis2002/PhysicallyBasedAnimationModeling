@@ -1,0 +1,11 @@
+Box Width, Box Height, Box Depth
+        16         16         16
+
+Ball Position X, Ball Position Y, Ball Position Z, Ball Radius, Ball Mass
+              0                0                0          0.8        1.0
+
+Time Step, Substeps
+ 0.000075       500
+
+Coeff of Restitution, Coeff of Friction, Coeff of Wind Resistance
+                0.95                0.3                       0.2

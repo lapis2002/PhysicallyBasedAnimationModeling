@@ -1,0 +1,17 @@
+# Box Width, Box Height, Box Depth
+Box 16.0 16.0 16.0
+
+# Ball Position X, Ball Position Y, Ball Position Z, Ball Initial Velocity X, Ball Initial Velocity Y, Ball Initial Velocity Z, Ball Radius, Ball Mass
+Ball 0.0 0.0 0.0  100.0 100.0 100.0 0.8 1.0
+
+# Acceleration
+Acceleration 10.0 2.0 -10.0
+
+# Time Step, Substeps
+TimeStep 0.000075 500
+
+# Coeff of Restitution, Coeff of Friction, Coeff of Wind Resistance
+CoeffRes 0.95
+CoeffFrict 0.3
+CoeffWind 0.2
+
